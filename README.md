@@ -64,14 +64,14 @@
 
 ### 🌎 Business Analyst | International Trade | SQL & Power BI
 
-I am a professional in International Business Administration with a strong interest in Data Analysis and Business Intelligence.  
+I am a Bachelor's Degree graduate in International Business with a strong interest in Data Analysis and Business Intelligence.
 I focus on transforming data into strategic decisions for companies operating in international markets.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Degree in International Business Administration  
+- 🎓 Bachelor's Degree in International Business  
 - 📊 Knowledge in SQL, Power BI and Excel  
 - 🌍 Experience in Market Intelligence & International Trade Analysis  
 - 📈 Passionate about data-driven decision making  
