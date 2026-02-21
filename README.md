@@ -26,32 +26,26 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> Data & Business Tools:
 
 <p align="left">
-
-<!-- SQL -->
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</a>
-
-<!-- PostgreSQL -->
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
-</a>
-
 <!-- Excel -->
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40"/>
 </a>
-
+ <!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
+</a>
+<!-- SQL -->
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</a>
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</a>
 <!-- Git (versión que sí funciona) -->
 <a href="https://github.com/JPvalto92" target="_blank">
   <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40" height="40"/>
 </a>
-
 <!-- Visual Studio -->
 <a href="https://visualstudio.microsoft.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
