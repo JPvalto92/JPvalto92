@@ -2,7 +2,7 @@
 
 <h3 align="center">🌎 align="center">Business Analyst | International Trade | SQL & Power BI </h3>
 
-<h5 align="center">I'm an Aspiring Developer and Student from India</h5>
+<h5 align="center">Business & Data Analyst from Costa Rica 🇨🇷</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JPvalto16&label=Profile%20views&color=0e75b6&style=flat" alt="JPvalto16" /> </p>
 
