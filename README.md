@@ -66,7 +66,7 @@ I focus on transforming data into strategic decisions for companies operating in
 ## 🚀 About Me
 
 - 🎓 Bachelor’s Degree in International Business
-- 📊 Knowledge in SQL, Power BI and Excel  
+- 📊 Knowledge in Excel, Power BI and SQL 
 - 🌍 Experience in Market Intelligence & International Trade Analysis  
 - 📈 Passionate about data-driven decision making  
 - 🔎 Interested in Business Analytics, Trade Analysis and Supply Chain Optimization  
