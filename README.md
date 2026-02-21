@@ -48,8 +48,8 @@
 </a>
 
 <!-- Git (versión que sí funciona) -->
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/git.png" width="40" height="40"/>
+<a href="https://github.com/JPvalto92" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" height="40"/>
 </a>
 
 <!-- Visual Studio -->
