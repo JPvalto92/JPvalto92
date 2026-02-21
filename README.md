@@ -8,7 +8,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JPvalto16?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsubhadeepzilong&screen_name=JPvalto16)
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=International+Business+Professional;Data+Analyst+in+Progress;SQL+%7C+Power+BI+%7C+Business+Intelligence;Persistence+Builds+Success&center=true&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=International+Business+Professional;Data+Analyst+in+Progress;Ecxel+%7C+SQL+%7C+Power+BI+%7C+Business+Intelligence;Persistence+Builds+Success&center=true&width=500&height=50"></a>
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
