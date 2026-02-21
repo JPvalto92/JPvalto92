@@ -13,6 +13,16 @@
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/jos%C3%A9-pablo-v-482b20181/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/pablo.valverde.torres/?locale=es_LA" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+</p>
+
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> Data & Business Tools:
 
 <p align="left">
