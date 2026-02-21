@@ -110,7 +110,7 @@ I focus on transforming data into strategic decisions for companies operating in
 
 ## 🎯 Career Objective
 
-To contribute as a Business or Data Analyst by combining international business knowledge with analytical tools to generate measurable impact in organizations.
+To contribute as a Business or Data Analyst, by combining international business knowledge with analytical tools to generate measurable impact in organizations.
 
 ---
 ## 🔥 Streak Stats
