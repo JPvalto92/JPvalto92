@@ -14,32 +14,18 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jos%C3%A9-pablo-v-482b20181/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.facebook.com/pablo.valverde.torres/?locale=es_LA" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-</p>
-
-
-
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> Data & Business Tools:
 
 <p align="left">
 
-<!-- SQL Server -->
+<!-- SQL (genérico) -->
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </a>
 
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </a>
 
 <!-- Power BI -->
@@ -58,7 +44,6 @@
 </a>
 
 </p>
-
 
 
 
