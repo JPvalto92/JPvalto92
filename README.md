@@ -63,7 +63,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-### 🌎 Business Analyst | International Trade | SQL & Power BI
+### 🌎 Business Analyst | International Trade | Excel, Power BI & SQL
 
 I am a Bachelor’s Degree in International Business with a strong interest in Data Analysis and Business Intelligence.
 I focus on transforming data into strategic decisions for companies operating in international markets.
