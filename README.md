@@ -35,6 +35,9 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
 </a>
 <!-- SQL -->
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40"/>
+</a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </a>
