@@ -118,24 +118,7 @@ To contribute as a Business or Data Analyst, by combining international business
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
 
-  <p align="center">
-
-    <img src="https://github-readme-stats.vercel.app/api?username=JPvalto92&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-
-    <br/>
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JPvalto92&langs_count=10&layout=compact&theme=algolia" height="192px"/>
-
-    <br/>
-
-    <b>Note:</b> Top languages reflect public repositories only.
-
-  </p>
-</details>
 
   <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
