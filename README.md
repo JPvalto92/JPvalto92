@@ -131,12 +131,15 @@ To contribute as a Business or Data Analyst, by combining international business
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+  <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  
-   <a href="https://github.com/JPvalto92"><img alt="JPvalto92's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JPvalto92&custom_title=JPvalto92's%20Contribution%20Graph&theme=react-dark" /></a>
-   
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  <br/>
 
+  <a href="https://github.com/JPvalto92">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JPvalto92&theme=react-dark" />
+  </a>
+
+</details>
 ⭐ Always learning. Always improving. Always analyzing.
 
 
