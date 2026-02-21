@@ -67,7 +67,7 @@
 I am a Bachelor’s Degree in International Business with a strong interest in Data Analysis and Business Intelligence.
 I focus on transforming data into strategic decisions for companies operating in international markets.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🚀 About Me
 
@@ -77,7 +77,7 @@ I focus on transforming data into strategic decisions for companies operating in
 - 📈 Passionate about data-driven decision making  
 - 🔎 Interested in Business Analytics, Trade Analysis and Supply Chain Optimization  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🛠️ Tools & Skills
 
@@ -86,8 +86,8 @@ I focus on transforming data into strategic decisions for companies operating in
 - **Excel** (Advanced formulas, Pivot Tables, Data Analysis)
 - **Market Research & Benchmarking**
 - **International Trade Analysis**
-
----
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📂 Featured Projects
 
@@ -106,18 +106,18 @@ I focus on transforming data into strategic decisions for companies operating in
 - Demand patterns identification.
 - Optimization recommendations.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🎯 Career Objective
 
 To contribute as a Business or Data Analyst, by combining international business knowledge with analytical tools to generate measurable impact in organizations.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JPvalto92&theme=algolia" alt="JPvalto92" /></p>
 
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
   <details>
