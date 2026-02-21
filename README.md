@@ -1,7 +1,8 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, 👋 Hi, I'm Pablo Valverde </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Hi, I'm José Pablo Valverde Torres de Costa Rica👋</h1>
+
 <h3 align="center">🌎 align="center">Business Analyst | International Trade | SQL & Power BI </h3>
 
-<h3 align="center">I'm an Aspiring Developer and Student from India</h3>
+<h5 align="center">I'm an Aspiring Developer and Student from India</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
 
