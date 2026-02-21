@@ -42,6 +42,9 @@
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </a>
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40"/>
+</a>
 <!-- Git (versión que sí funciona) -->
 <a href="https://github.com/JPvalto92" target="_blank">
   <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40" height="40"/>
@@ -50,9 +53,8 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40"/>
-</a>
+ <!-- SQL SERVER -->
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
