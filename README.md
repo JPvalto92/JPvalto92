@@ -75,7 +75,7 @@ I focus on transforming data into strategic decisions for companies operating in
 - Built dashboards to identify growth opportunities.
 - Provided strategic recommendations based on trends.
 
-### 📈 Market Intelligence – Medical Devices
+### 📈 Market Intelligence 
 - Competitive benchmarking analysis.
 - Market positioning insights.
 - Strategic business recommendations.
@@ -115,12 +115,6 @@ To contribute as a Business or Data Analyst by combining international business 
    <a href="https://github.com/JPvalto92"><img alt="JPvalto92's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JPvalto92&custom_title=JPvalto92's%20Contribution%20Graph&theme=react-dark" /></a>
    
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-## 📫 Connect With Me
-
-- 💼 LinkedIn: (aquí pones tu link)
-- 📧 Email: (tu correo profesional)
-
----
 
 ⭐ Always learning. Always improving. Always analyzing.
 
