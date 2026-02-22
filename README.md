@@ -126,15 +126,15 @@ To contribute as a Business or Data Analyst, by combining international business
 
   <p align="center">
 
-    <img src="https://github-readme-stats.vercel.app/api?username=JPvalto92&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=JPvalto92&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 
-    <br/>
+   <br/>
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JPvalto92&langs_count=10&layout=compact&theme=algolia" height="192px"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JPvalto92&langs_count=10&layout=compact&theme=algolia" height="192px"/>
 
-    <br/>
+   <br/>
 
-    <b>Note:</b> Top languages reflect public repositories only.
+   <b>Note:</b> Top languages reflect public repositories only.
 
   </p>
 </details>
