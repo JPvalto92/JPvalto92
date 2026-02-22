@@ -120,7 +120,7 @@ To contribute as a Business or Data Analyst, by combining international business
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<details>
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
 
@@ -133,7 +133,6 @@ To contribute as a Business or Data Analyst, by combining international business
     <br/>
     <b>Note:</b> Top languages reflect public repositories only.
   </p>
-</details>
 
   <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
