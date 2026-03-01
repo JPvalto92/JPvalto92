@@ -82,8 +82,8 @@ I focus on transforming data into strategic decisions for companies operating in
 
 ## 🛠️ Tools & Skills
 
-- **SQL** (Joins, Aggregations, Data Cleaning, Queries)
 - **Power BI** (Dashboards, KPIs, Business Reporting)
+- **SQL** (Joins, Aggregations, Data Cleaning, Basic Queries)
 - **Excel** (Advanced formulas, Pivot Tables, Data Analysis)
 - **Market Research & Benchmarking**
 - **International Trade Analysis**
